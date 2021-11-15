@@ -1,11 +1,36 @@
 ---
 layout: post
-title: Introduction
+title: Jacob Jisu Kang
 ---
+## Introduction
+I am a senior student at Hanbat National University in Daejeon, Republic of Korea.
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
 
------
+My major is Computer Engineering and I'm planning to go to graduation course.  
+My area of interest is **Computer vision, Machine learning**.  
+
+***
+
+## Experiences  
+**Research Intern**  
+Human Robot Interaction Laboratory  
+Electronics and Telecommunications Research Institute ([ETRI](https://www.etri.re.kr/eng/main/main.etri))  
+Daejeon, Republic of Korea. July. 2020 ~ Sep. 2020  
+
+
+**Contract developer**  
+Electronics and Telecommunications Research Institute ([ETRI](https://www.etri.re.kr/eng/main/main.etri))  
+Daejeon, Republic of Korea. Mar. 2019 ~ July 2019  
+
+***
+
+## Publication  
+
+**Synthetic Data Generation for Pose Recognition (First Author)**  
+The Korea Society For Simulation (KSFS)  
+###### (Currently pending)  
+
+
 
 Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
 
