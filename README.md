@@ -88,7 +88,7 @@ In `index.html`, remove the `prepend:`:
 <a
   class="pagination-item newer"
   href="{{ paginator.previous_page_path | relative_url }}"
-  >Newer</a
+  >English</a
 >
 ```
 
