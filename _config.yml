@@ -1,5 +1,5 @@
 # Setup
-title: Dark Poole
+title: Jisu Kang
 url: https://getpoole.com
 paginate: 1
 baseurl: ""
@@ -32,17 +32,17 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
+  name: Jisu Kang
   url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  email: dev.newjacob19@gmail.com
 
 # Custom vars
 version: 3.0.0
 
 # Navbar page list
-nav:
-  - title: Blog
-    url: /archive
+#nav:
+#  - title: Contact
+#    url: /contact
 
-  - title: About
-    url: /about
+#  - title: About
+#    url: /about

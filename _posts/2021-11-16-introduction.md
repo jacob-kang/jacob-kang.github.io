@@ -2,66 +2,55 @@
 layout: post
 title: Jacob Jisu Kang
 ---
-## Introduction
-I am a senior student at Hanbat National University in Daejeon, Republic of Korea.
+![](C:\Users\z2soooDT\Desktop\Portfolio_Page\jacob-kang.github.io\assets\picture.jpg){: width="80%" height="80%"}
+## ABOUT ME
+I am a senior student at [Hanbat National University](https://www.hanbat.ac.kr/eng/) in Daejeon, Republic of Korea. <br/>
+Expected graduation date is Feb. 2020. <br/>
 
+My major is Computer Engineering, and I'm planning to go to graduation course.  <br/>
+My area of interest is **Computer vision, Machine learning**.  <br/>
 
-My major is Computer Engineering and I'm planning to go to graduation course.  
-My area of interest is **Computer vision, Machine learning**.  
+**I am currently looking for graduate course about my area of interest. If you feel interest, Please reach out to me via [e-mail](dev.newjacob19@gmail.com).**  <br/>
 
-***
-
-## Experiences  
-**Research Intern**  
-Human Robot Interaction Laboratory  
-Electronics and Telecommunications Research Institute ([ETRI](https://www.etri.re.kr/eng/main/main.etri))  
-Daejeon, Republic of Korea. July. 2020 ~ Sep. 2020  
-
-
-**Contract developer**  
-Electronics and Telecommunications Research Institute ([ETRI](https://www.etri.re.kr/eng/main/main.etri))  
-Daejeon, Republic of Korea. Mar. 2019 ~ July 2019  
+[CV](???), [Github](https://github.com/jacob-kang)
 
 ***
 
-## Publication  
+## Work Experiences  <br/>
+* **Research Intern**  <br/>
+ July. 2020 ~ Sep. 2020 <br/>
+Human Robot Interaction Laboratory  <br/>
+Electronics and Telecommunications Research Institute ([ETRI](https://www.etri.re.kr/eng/main/main.etri))  <br/>
+_Daejeon, Republic of Korea_  <br/>
 
-**Synthetic Data Generation for Pose Recognition (First Author)**  
-The Korea Society For Simulation (KSFS)  
-###### (Currently pending)  
+
+* **Contract developer**  <br/>
+Mar. 2019 ~ July 2019 <br/>
+Electronics and Telecommunications Research Institute ([ETRI](https://www.etri.re.kr/eng/main/main.etri))  <br/>
+_Daejeon, Republic of Korea_   <br/>
+
+***
+
+## Projects  <br/>
+* **Traffic pose recognition AI** <br/>
+July. 2020 ~ June. 2021 <br/>
+Detect human and recognize traffic pose [[Github]](https://github.com/jacob-kang/TrafficPoseRecognition_GraduationProject)
+
+***
+## Publication <br/>
+* **Synthetic Data Generation for Pose Recognition (First Author)** <br/>
+The Korea Society For Simulation [(KSS)](https://www.simulation.or.kr/html/) <br/>
+###### (Currently pending) <br/>
+***
+
+## Education <br/>
+* **[Hanbat National University](https://www.hanbat.ac.kr/eng/)** <br/>
+Mar. 2014 ~ Present <br/>
+Deparment of Computer engineering,  <br/>
+Daejeon, Republic of Korea <br/>
 
 
-
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
-
-This demo site was last updated {{ site.time | date: "%B %d, %Y" }}.
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub]({{ site.github.repo }}).
-
-## What's included
-
-Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it like this one, includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404]({{ '404.html' | relative_url }}), [RSS feed]({{ 'atom.xml' | relative_url }}), posts, [archive page]({{ 'archive' | relative_url }}), and [example page]({{ 'about' | relative_url }}))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Jekyll's built-in support for Rouge
-
-Additional features are available in individual themes.
-
-## Browser support
-
-Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), Firefox, and Edge.
-
-## Download
-
-These themes are developed on and hosted with GitHub. Head to the [GitHub repository]({{ site.github.repo }}) for downloads, bug reports, and features requests.
-
-Thanks!
+* **[Robertson College](https://www.robertsoncollege.com/campuses/winnipeg/)** <br/>
+Dec. 2018 ~ Fe. 2019 _(one semester)_ <br/>
+English Cultural and Language Courses (ECLC), <br/>
+Winnipeg, Manitoba, Canada
